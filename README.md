@@ -11,12 +11,12 @@
 ## Why a holdings baseline matters
 
 Monitoring a Nitrates Vulnerable Zone means, before anything else,
-*knowing* it: the agricultural surface, the number of farm holdings, the
+*knowing* it: the agricultural area, the number of farm holdings, the
 livestock numbers — and, for each of these variables, their spatial
 distribution. Contamination data only becomes interpretable when read
 against these pressure indicators: comparing the evolution of nitrate
 concentrations with the evolution of agricultural area, holdings and
-animals is what turns monitoring into diagnosis. That comparison requires
+livestock is what turns monitoring into diagnosis. That comparison requires
 a **stabilised, repeatable methodology** — if the way holdings are counted
 changes from year to year, the time series is meaningless.
 
