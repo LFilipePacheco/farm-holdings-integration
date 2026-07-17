@@ -7,6 +7,12 @@
 > nitrate monitoring, pressure analysis and survey sampling all depend.
 
 ---
+![Holdings by municipality and source](docs/holdings_by_municipality.png)
+*Farm holdings by municipality, stacked by source — the SIA layer (top) adds holdings invisible to the national parcel registry, concentrated in Póvoa de Varzim and Esposende.*
+
+
+![Holding density](docs/holdings_density.png)
+*Density of farm-holding seat locations across the Vulnerable Zone — each holding anchored to its dominant-parish largest parcel.*
 
 ## Why a holdings baseline matters
 
