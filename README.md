@@ -73,7 +73,7 @@ the registry are flagged for human decision rather than silently included
 
 **3. Aggregation at every level that matters** — surface, parcel and
 sub-parcel counts per holding, per parish (*freguesia*), per municipality
-and for the whole zone; parcelled versus utilised area; share of SA per
+and for the whole zone; share of SA per
 holding.
 
 **4. A spatial anchor for every holding** — each holding is assigned its
