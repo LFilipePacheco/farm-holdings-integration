@@ -7,6 +7,8 @@
 > nitrate monitoring, pressure analysis and survey sampling all depend.
 
 ---
+![Pipeline overview](docs/pipeline_overview.png)
+*From two overlapping registries to one deduplicated, spatially anchored agricultural holdings baseline — the four stages of the pipeline.*
 
 ![Holding density](docs/holdings_density.png)
 *Density of agricultural holding seat locations across the Vulnerable Zone — each agricultural holding anchored to its dominant-parish largest parcel.*
