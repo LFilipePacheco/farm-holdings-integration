@@ -45,7 +45,7 @@ No single source describes the zone's farms completely:
   agricultural holdings that apply for support schemes — but many small horticultural
   agricultural holdings never register;
 - The **SIA-ZV platform**, used since 2013 for Vulnerable Zone monitoring,
-  captured agricultural holdings through aid requests and field contact — but the
+  captured agricultural holdings through field contact — but the
   platform is currently unavailable, freezing its data in time;
 - The two sources overlap, use different identifiers and structures, and
   each contains records the other lacks.
