@@ -75,7 +75,7 @@ SA_OCSOLOS = {
     'PPE-PL: Prado e Pastagem Permanente Prática Local',  # (?) variante local de PPE-PP
     'Sobcoberto Misto',
     'Vinha',
-    # 'Viveiros',                                      # (?) descomentar se for SA elegível
+    'Viveiros',                                      
 }
 
 # ══════════════════════════════════════════════════════════════
